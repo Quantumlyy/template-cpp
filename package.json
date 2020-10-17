@@ -1,6 +1,6 @@
 {
-  "name": "--name-lower--",
-  "description": "--description--",
+  "name": "root",
+  "description": "",
   "private": true,
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
